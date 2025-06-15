@@ -9,13 +9,21 @@ This project is a Digital Resume created using HTML, CSS, and JavaScript to show
 
 ## ✨ Features
 🖥 Clean and professional layout
+
 📱 Fully responsive on all devices
+
 🧭 Smooth navigation with clickable sections
-🧑‍🎓 Education and experience timeline
+
+🧑‍🎓 Education and experience timeline 
+
 📂 Projects with links
+
 📄 Downloadable resume as Image.png in Dark theme
+
 🌐 Social media and contact links
+
 🌙 Light/Dark mode toggle
+
 💡 Interactive animations using JavaScript
 
 ## 🛠 Technologies Used
