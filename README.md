@@ -1,6 +1,11 @@
 # 🧑‍💼 Digital-Resume
 This project is a Digital Resume created using HTML, CSS, and JavaScript to showcase my personal information, skills, education, projects, and achievements in a modern and interactive way. It serves as a professional online portfolio that is both responsive and user-friendly.
 
+## 📝 Note
+How to View the Mobile Version of a Website:
+
+When you open a website on your mobile phone, make sure the "Desktop site" option is deselected in your browser settings.
+
 ## 🌐 Live Demo
 [Click here to view the website]( https://ankitrathore8749.github.io/Digital-Resume/)
 
